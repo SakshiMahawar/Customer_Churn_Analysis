@@ -6,7 +6,7 @@ This project involves an in-depth analysis of customer churn for a telecom compa
 
 Key Analysis and Visualizations:
 
-1. Churn Rate by Internet Type:
+1.Churn Rate by Internet Type:
    The churn rate is highest among customers using Fiber Optic (41.1%), followed by Cable (25.7%), DSL (19.4%), and those without internet service (7.8%).
    Fiber Optic customers show the highest churn rate, indicating potential issues with service quality, pricing, or customer satisfaction.
 
