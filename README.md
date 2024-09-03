@@ -33,3 +33,6 @@ Key Analysis and Visualizations:
  Conclusion:
   Based on the analysis, several key factors contributing to customer churn have been identified. High churn rates among customers using Fiber Optic, those on month-to-month contracts, and those paying by Mailed 
   Check or Bank Withdrawal indicate specific areas where improvements can be made. Furthermore, new customers with shorter tenures and those not subscribed to additional services are at a higher risk of leaving.
+
+  To mitigate churn, the telecom company should consider strategies such as promoting longer-term contracts, encouraging stable payment methods, enhancing the quality of Fiber Optic services, and developing 
+  targeted retention strategies for new customers and those in high-churn regions. Additionally, offering bundled services or incentives for additional service subscriptions could further reduce churn rates.
